@@ -1,0 +1,11 @@
+#Balok bermassa 2 kg didorong dengan gaya 2 N sehingga berpindah sejauh 2 m. Usaha yang telah dilakukan untuk memindahkan balok sebesar . . .
+
+m= 2 #kg
+F= 2 #N
+s=2 #m
+
+W=F*s
+print(W, "N/m")
+
+#the Answer is 4 N/m
+
